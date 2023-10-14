@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "signup": [
+    {
+      "name": "Alok Rana",
+      "email": "alok9853rana@gmail.com",
+      "pass": "Alok123@gmail.com",
+      "phone": "6372105152",
+      "id": 1
+    },
+    {
+      "name": "Alok Rana",
+      "email": "alok9853rana@gmail.com",
+      "pass": "Alok123@gmail.com",
+      "phone": "6372105152",
+      "id": 2
+    },
+    {
+      "name": "Abinash",
+      "email": "abinash123@gmail.com",
+      "pass": "9668526030",
+      "phone": "9668526030",
+      "id": 3
+    },
+    {
+      "name": "Abinash",
+      "email": "abinash123@gmail.com",
+      "pass": "9668526030",
+      "phone": "9668526030",
+      "id": 4
+    },
+    {
+      "name": "Abinash",
+      "email": "abinash123@gmail.com",
+      "pass": "9668526030",
+      "phone": "9668526030",
+      "id": 5
+    },
+    {
+      "name": "Shibani Rana",
+      "email": "shibani123@gmail.com",
+      "pass": "7815022634",
+      "phone": "7815022634",
+      "id": 6
+    }
+  ],
+  "currentuser": {
+    "name": "Abinash",
+    "email": "abinash123@gmail.com",
+    "pass": "9668526030",
+    "phone": "9668526030",
+    "id": 5
+  },
+  "reminder": {
+    "date": "2023-10-18",
+    "subject": "English",
+    "email": "dfsdfs",
+    "desc": "fdfsdfdfd",
+    "contact": "2345678765",
+    "sms": "34323",
+    "recur": "on"
+  },
+  "modify":{},
+  "disable":{}
+}
